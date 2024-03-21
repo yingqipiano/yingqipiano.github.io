@@ -2,24 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography HERE. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Yingqi Wang is a third-year DMA Piano Performance student at the University of Nebraska – Lincoln, studying under Dr. Paul Barnes. Previously, she studied with Prof. Steven Heyman at Syracuse University during MM degree. She started learning piano at six, and practicing quickly became a routine. She had often performed in concerts. Yingqi later attended Henan University in China, where she built her musical foundation. Afterwards, she decided to pursue further study in the US. At Syracuse, she successfully performed solo recitals across various periods and deepened her knowledge in music theory, history, and literature. At UNL, Yingqi has completed successful solo and chamber recitals, including works by composers such as Beethoven, Bartok, and Chopin. She also participated in the Piano Plus Festival in Greece. Beyond academia, Yingqi has collaborated with local organizations for piano accompaniment, such as Yankee Hill Retirement Home and Sheridan Lutheran Church. Yingqi is passionate about teaching. She has guided several kids towards loving piano through pedagogy internships. Yingqi has performed in Asia, North America, and Europe. She is an experienced accompanist and teacher, eager to contribute to music education and inspire the next generation.
