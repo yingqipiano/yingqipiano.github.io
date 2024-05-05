@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A famous Chinese composer - Jinazhong Wang
+title: A famous Chinese composer - Jianzhong Wang
 date: 2024-04-03 00:20:00
 description: 
 tags: music contemporary
